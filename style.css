@@ -1,0 +1,24 @@
+body{
+    background-color: Rgb(245,245,245);
+}
+nav{
+    background-color: rgb(52,58,64);
+
+}
+.card-body{
+    overflow: hidden;
+}
+img{
+
+    border-radius: 5px;
+    
+}
+img:hover{
+transform: scale(1.5);
+transition:0.5s;
+    transform-origin: top;
+
+}
+.card{
+    border-radius: 10px;
+}
